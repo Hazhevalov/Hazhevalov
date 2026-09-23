@@ -79,10 +79,10 @@ Includes inventory management, sales, customers, reservations, promotions, disco
 
 ## 🌍 Languages
 
-* 🇺🇸 **English** — B2
-* 🇺🇦 **Ukrainian** — Native
-* 🇷🇺 **Russian** — Native
-* 🇩🇪 **German** — A2
+* 🇺🇸 **English** - B2
+* 🇺🇦 **Ukrainian** - Native
+* 🇷🇺 **Russian** - Native
+* 🇩🇪 **German** - A2
 
 ---
 
