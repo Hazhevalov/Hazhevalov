@@ -7,7 +7,7 @@
 **Software Development • Backend • Databases • Mobile**
 
 <p>
-  <a href="https://your-portfolio-site.com"><strong>🌐 Portfolio Website</strong></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><strong>🌐 Portfolio Website</strong></a>
 </p>
 
 </div>
@@ -15,8 +15,9 @@
 ---
 
 ## 👨‍💻 About Me
+I have **2 years of hands-on software development experience**, primarily working with C# and .NET.
 
-I build software primarily with **C# and .NET**, focusing on backend-oriented development, databases, and application logic.
+My main stack includes **C#, .NET, Entity Framework Core, SQL Server, SQLite, and LINQ**.
 
 I also have experience with **.NET MAUI**, Python, Django, Unity, and other technologies.
 
@@ -68,7 +69,7 @@ My main interests are **software development and backend development**.
 ## 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git" alt="Development tools" />
 </p>
 
 ![SSMS](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -126,7 +127,7 @@ Built with **C#**, **Entity Framework Core**, and **Microsoft SQL Server**.
 ## 📫 Contact
 
 <p>
-  <a href="https://your-portfolio-site.com">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
   </a>
   <br/>
