@@ -83,8 +83,6 @@ Built with **.NET MAUI**, **MVVM**, and **SQLite**.
 
 The application tracks caffeine consumption and provides statistics, consumption history, a personalized onboarding quiz, calendar view, and full English/Russian localization.
 
-I developed the application's **internal logic, navigation, database integration, MVVM structure, and caffeine calculation system**.
-
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-512BD4?style=flat-square)
