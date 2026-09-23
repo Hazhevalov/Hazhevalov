@@ -1,53 +1,75 @@
+<div align="center">
+
 # Hi, I'm Artem Hazhevalov 👋
 
 ### C# / .NET Developer
 
+**Software Development • Backend • Databases • Mobile**
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
 I build software primarily with **C# and .NET**, focusing on backend-oriented development, databases, and application logic.
 
-I also have experience with mobile development using **.NET MAUI**, as well as Python and Unity.
+I also have experience with **.NET MAUI**, Python, Django, Unity, and other technologies.
+
+My main interests are **software development and backend development**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Main Stack
+### 💻 Main Stack
 
-* **C#**
-* **.NET**
-* **Entity Framework Core**
-* **Dapper**
-* **LINQ**
-* **Fluent API**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET" />
+</p>
 
-### Databases
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Fluent API](https://img.shields.io/badge/Fluent%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-* **Microsoft SQL Server**
-* **SQLite**
-* **SQL**
+### 🗄 Databases
 
-### Application Development
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+</p>
 
-* **.NET MAUI**
-* **MVVM**
-* **Unity**
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Additional Technologies
+### 📱 Application Development
 
-* **C++**
-* **Python**
-* **Django**
-* **aiogram**
-* **HTML**
-* **CSS**
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+</p>
 
-* **Visual Studio**
-* **Visual Studio Code**
-* **SQL Server Management Studio**
-* **PyCharm**
-* **Letos**
-* **Notion**
+### 🌐 Additional Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,django,html,css" alt="C++, Python, Django, HTML and CSS" />
+</p>
+
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+## 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" alt="Development tools" />
+</p>
+
+![SSMS](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Letos](https://img.shields.io/badge/Letos-SQLite%20Manager-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -55,38 +77,63 @@ I also have experience with mobile development using **.NET MAUI**, as well as P
 
 ### ☕ CoffeeNap
 
-Android caffeine tracking application built with **.NET MAUI, MVVM and SQLite**.
+**Android caffeine tracking application**
 
-It provides caffeine tracking, consumption statistics, history, a personalized onboarding quiz, a calendar view, and full English/Russian localization.
+Built with **.NET MAUI**, **MVVM**, and **SQLite**.
 
-**My contribution:** application logic, navigation, local database integration, MVVM architecture and caffeine calculation system.
+The application tracks caffeine consumption and provides statistics, consumption history, a personalized onboarding quiz, calendar view, and full English/Russian localization.
 
-**Tech:** `C#` `.NET MAUI` `MVVM` `SQLite`
+I developed the application's **internal logic, navigation, database integration, MVVM structure, and caffeine calculation system**.
 
-> Repository will be available publicly soon.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-512BD4?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+> Repository will be publicly available soon.
+
+---
 
 ### 🎵 MusicStore
 
-Console application for managing a music store.
+**Console-based music store management system**
 
-Includes inventory management, sales, customers, reservations, promotions, discounts and statistics.
+The application includes inventory management, sales, customers, reservations, promotions, discounts, and statistics.
 
-**Tech:** `C#` `Entity Framework Core` `Microsoft SQL Server`
+Built with **C#**, **Entity Framework Core**, and **Microsoft SQL Server**.
 
-[View MusicStore Repository](https://github.com/Hazhevalov/MusicStore)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+🔗 [View MusicStore Repository](https://github.com/Hazhevalov/MusicStore)
 
 ---
 
 ## 🌍 Languages
 
-* 🇺🇸 **English** - B2
-* 🇺🇦 **Ukrainian** - Native
-* 🇷🇺 **Russian** - Native
-* 🇩🇪 **German** - A2
+| Language | Level |
+|---|---|
+| 🇺🇸 English | B2 |
+| 🇺🇦 Ukrainian | Native |
+| 🇷🇺 Russian | Native |
+| 🇩🇪 German | A2 |
 
 ---
 
 ## 📫 Contact
 
-* Telegram: [@T1emshik](https://t.me/T1emshik)
-* Email: [hazhevalov@gmail.com](mailto:hazhevalov@gmail.com)
+<p>
+  <a href="https://t.me/T1emshik">
+    <img src="https://img.shields.io/badge/Telegram-@T1emshik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  
+  <a href="mailto:hazhevalov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hazhevalov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+</div>
