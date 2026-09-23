@@ -6,6 +6,10 @@
 
 **Software Development • Backend • Databases • Mobile**
 
+<p>
+  <a href="https://your-portfolio-site.com"><strong>🌐 Portfolio Website</strong></a>
+</p>
+
 </div>
 
 ---
@@ -122,10 +126,14 @@ Built with **C#**, **Entity Framework Core**, and **Microsoft SQL Server**.
 ## 📫 Contact
 
 <p>
+  <a href="https://your-portfolio-site.com">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  <br/>
   <a href="https://t.me/T1emshik">
     <img src="https://img.shields.io/badge/Telegram-@T1emshik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  
+  <br/>
   <a href="mailto:hazhevalov@gmail.com">
     <img src="https://img.shields.io/badge/Email-hazhevalov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
