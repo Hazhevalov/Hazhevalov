@@ -82,18 +82,21 @@ My main interests are **software development and backend development**.
 
 ### ☕ CoffeeNap
 
-**Android caffeine tracking application**
+**Cross-platform caffeine tracking application focused on Android**
 
-Built with **.NET MAUI**, **MVVM**, and **SQLite**.
+CoffeeNap helps users track their caffeine intake from coffee, tea, and energy drinks, providing detailed consumption history, daily summaries, and calendar statistics.
 
-The application tracks caffeine consumption and provides statistics, consumption history, a personalized onboarding quiz, calendar view, and full English/Russian localization.
+The application includes caffeine estimation based on drink type and preparation method, recipe reuse, personalized onboarding, English/Russian localization, and fully local data storage with no account or backend required.
+
+Built with **.NET 10**, **.NET MAUI**, **MVVM**, and **SQLite**.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-512BD4?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-> Repository will be publicly available soon.
+🔗 [View CoffeeNap Repository](https://github.com/Hazhevalov/CoffeeNap)
 
 ---
 
